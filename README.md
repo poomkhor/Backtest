@@ -1,5 +1,5 @@
 <!-- Project NAME -->
-# Backtesting Project
+## Backtesting Project
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -25,7 +25,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+### About The Project
 
 The project is to create a personal Backtest module that is able to present the data finding onto streamlit web application.
 
